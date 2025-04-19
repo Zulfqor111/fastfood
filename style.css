@@ -1,0 +1,375 @@
+*{
+    
+        margin: 0;
+        padding: 0;
+        text-decoration: none;
+        list-style: none;
+}
+.navbar{
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    padding-left: 50px;
+}
+.navbar_texts{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    padding-right: 50px;
+}
+a{
+    font-family: Rubik;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21.33px;
+    letter-spacing: 0%;
+    color:  rgba(54, 56, 83, 1);
+    transition: all 0.3s
+
+}
+a:hover{
+   
+    color:  rgba(255, 104, 56, 1);
+    cursor: pointer;
+    transition: all 0.3s;
+    
+}
+button{
+    width: 120px;
+    height: 50.408084869384766px;
+    top: -1620.64px;
+    left: 553px;
+    border-radius: 5px;
+    background-color: #FF6838;
+    border: none;
+
+    font-family: Rubik;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21.33px;
+    letter-spacing: 0%;
+    text-align: center;
+
+    color: white;
+    
+
+}
+.super{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.super_fastfood{
+    font-family: Rubik;
+    font-weight: 500;
+    font-size: 66px;
+    line-height: 78.21px;
+    letter-spacing: 0%;
+    color: rgba(54, 56, 83, 1);
+    ;
+
+}
+.sign_up{
+    transition: all 0.3s;
+    box-shadow: 0px 22px 40px 0px rgba(255, 104, 56, 0.19);
+
+}
+.sign_up:hover{
+    background-color:  black;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.super_text{
+    padding-left: 30px;
+}
+.bike{
+    padding-right: 50px;
+}
+span{
+    color: #FF6838;
+}
+.we{
+    width: 513px;
+    height: 66px;
+    top: 497px;
+    left: 96px;
+
+    font-family: Rubik;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    color: rgba(54, 56, 83, 1);
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+}
+.Explore{
+    width: 163px;
+    height: 50.4080810546875px;
+    top: 607.78px;
+    left: 95px;
+    border-radius: 5px;
+    border: none;
+    transition: all 0.3s;
+    box-shadow: 0px 22px 40px 0px rgba(255, 104, 56, 0.19);
+
+}
+.Explore:hover{
+    background-color:  black;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.name1{
+    font-family: Rubik;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 50px;
+    letter-spacing: 0%;
+
+}
+.lll{
+    width: 449px;
+    height: 497px;
+    top: 1076px;
+    left: 855px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 1px;
+    border-bottom-left-radius: 30px;
+   
+  
+}
+.stay{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:150px;
+}
+.See{
+    width: 176px;
+    height: 58px;
+    top: 1515px;
+    left: 855px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 1px;
+    border-bottom-left-radius: 30px;
+     background-color: #FF6838;
+     box-shadow: 0px 22px 40px 0px rgba(255, 104, 56, 0.19);
+
+}
+.See:hover{
+    background-color:  black;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.we2{
+    font-family: Rubik;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    color: rgba(54, 56, 83, 1);
+    padding-top: 80px;
+    padding-bottom: 150px;
+}
+.top{
+    text-align: center;
+    font-family: Rubik;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    padding-bottom: 50px;
+    
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+.box{
+    width: 361px;
+    height: 417px;
+    top: 1809px;
+    left: 156px;
+    background-color: rgba(255, 255, 255, 1);
+    
+}
+.name2{
+    font-family: Rubik;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    color:  rgba(54, 56, 83, 1);
+    padding: 20px;
+
+}
+.iii{
+    width: 361px;
+    height: 299px;
+    top: 1809px;
+    left: 156px;
+    border-top-left-radius: 53px;
+    border-top-right-radius: 5px;
+
+}
+.name3{
+    font-family: Rubik;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    color:  rgba(54, 56, 83, 1);
+    ;
+}
+.enter{
+    width: 79px;
+    height: 33px;
+    top: 2171px;
+    left: 1207px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    box-shadow: 0px 5px 12px 0px rgba(255, 104, 56, 0.19);
+    margin-left: 15px;
+    transition: all 0.3s;
+
+    
+    
+
+}
+.enter:hover{
+    background-color:  black;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.time{
+    display: flex;
+    gap: 10px;
+    padding-left: 20px;
+}
+.oclock{
+    width: 22px;
+    height: 22px;
+    top: 2178px;
+    left: 984px;
+    opacity: 0.9;
+
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    padding-top: 150px;
+}
+.Download{
+    font-family: Rubik;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 50px;
+    letter-spacing: 0%;
+
+}
+.name4{
+    width: 538px;
+    height: 94px;
+    top: 2587px;
+    left: 176px;
+    opacity: 0.9;
+
+    font-family: Rubik;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color:  rgba(54, 56, 83, 1);
+    padding-top: 20px;
+
+}
+.big_box{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding: 100px;
+}
+.big_box_container{
+    width: 1170px;
+    height: 312px;
+    top: 2979px;
+    left: 138px;
+    border-radius: 20px;
+    background-color: rgba(255, 122, 80, 1);
+    
+
+}
+.sub_text{
+    padding: 50px;
+}
+.name5{
+    font-family: Rubik;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47.4px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    ;
+
+}
+form{
+    width: 838.5px;
+    height: 78px;
+    top: 3156.45px;
+    left: 303.75px;
+    border-radius: 70px;
+    
+    background-color: white;
+    border: none;
+    margin-top: 50px;
+
+}
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    width: 600.5px;
+    height: 78px;
+    top: 3156.45px;
+    left: 303.75px;
+    border-radius: 70px;
+    padding-left: 30px;
+    border: none;
+
+    font-family: Rubik;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0%;
+   
+    color: rgba(54, 56, 83, 1);
+    
+
+}
+.sub_button{
+    width: 191.10000610351562px;
+    height: 58.5px;
+    top: 3166px;
+    left: 941.4px;
+    border-width: 1px;
+    border-radius: 70px;
+
+}
